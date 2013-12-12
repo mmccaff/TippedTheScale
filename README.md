@@ -16,3 +16,7 @@ Create the tables from questions.sql and answers.sql
 Configure database settings in /application/config/database.php.
 
 Point your web browser at the index, and enjoy.
+
+Demo
+----
+http://www.tippedthescale.com/
